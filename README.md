@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm 邱建評.A student from Fu Jin University
+### Welcome to my profile
+
 
 <!--
 **poker555/poker555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
