@@ -1,5 +1,4 @@
-### Hi there 👋 I'm 邱建評.A student from Fu Jin University
-### Welcome to my profile
+### Hi there 👋 I'm 邱建評, a student from Fu Jin University. Welcome to my profile!
 
 
 <!--
